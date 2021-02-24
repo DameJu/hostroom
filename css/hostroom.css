@@ -28,6 +28,41 @@ a{
     text-decoration: none;
     color: black;
 }
+ /*chambres, sous-menu*/
+
+ .under{
+    display: none;
+    box-shadow: 0px 1px 2px #ccc;
+    background-color:white;
+    width:100%;
+    z-index:1000;
+}
+
+nav > ul li:hover .under{
+    display:block;
+}
+
+.under li {
+    float:none;
+    width:100%;
+    text-align:left;
+}
+
+.under a{
+    padding: 10px;
+    border-bottom:none;
+}
+
+.under a:hover{
+    border-bottom:none;
+    background-color:rgb(red, green, blue, 0.1);
+}
+
+
+/*connexion*/
+#connexion{
+    border-radius: 10px 10px 10ps 10px;
+}
 
 /*parallax*/
 
