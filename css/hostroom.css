@@ -56,13 +56,13 @@ nav > ul li:hover .under{
 
 /*connexion*/
 #connexion{
-    border-radius: 10px 10px 10ps 10px;
+    border-radius: 10px 10px 10px 10px;
 }
 
 /*parallax*/
 
 .parallax{
-    background-image: url(/wamp64/www/ju/projet_daniel/hostroom/images/unknown.png);
+    background-image: url(/images/unknown.png);
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -73,5 +73,6 @@ nav > ul li:hover .under{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    */
+   */
+    
 }
