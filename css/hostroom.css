@@ -4,11 +4,6 @@
 
 /*nav barre*/
 
-html {
-    background-color: #7d7d81;
-    background-size: cover;
-    background-attachment: fixed;
-  }
 
   .menu{
     display: flex;
