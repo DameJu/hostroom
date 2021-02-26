@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+}
+
+/*nav barre*/
+
+
+  .menu{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    overflow: hidden;
+    padding: 10px;
+    background:linear-gradient(90deg,#7e87ee, white);
+}
+
+
+
+.menu .menu2{
+    display: block;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+ /*chambres, sous-menu*/
+
+ .under{
+    display: none;
+    box-shadow: 0px 1px 2px rgb(120, 76, 243);
+    background-color:white;
+    width:100%;
+    z-index:1000;
+}
+
+nav > ul li:hover .under{
+    display:block;
+}
+
+.under li {
+    float:none;
+    width:100%;
+    text-align:left;
+}
+
+.under a{
+    padding: 10px;
+    border-bottom:none;
+}
+
+.under a:hover{
+    border-bottom:none;
+    background-color:rgb(red, green, blue, 0.1);
+}
+
+
+/*connexion*/
+#connexion{
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 40%;
+    display: inline-block;
+    justify-content: space-around;
+}
+
+
+/*parallax*/
+
+/* .parallax{
+    background-image: url(images/unknown.png);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+   
+    
+} */
+
+
+/* nouvelle parallax */
+
+.parallax {
+    background-image: url(images/unknown.png) ;
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
