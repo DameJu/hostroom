@@ -67,8 +67,8 @@ nav > ul li:hover .under{
 
 /*parallax*/
 
-/* .parallax{
-    background-image: url(images/unknown.png);
+.parallax{
+    background-image: url("images/unknown.png");
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -76,13 +76,13 @@ nav > ul li:hover .under{
     background-size:cover;
    
     
-} */
+}
 
 
 /* nouvelle parallax */
 
-.parallax {
-    background-image: url(images/unknown.png) ;
+/* .parallax {
+    background-image: url("images/unknown.png") ;
     min-height: 700px;
     background-attachment: fixed;
     background-position: center;
@@ -93,4 +93,4 @@ nav > ul li:hover .under{
     align-items: center;
     flex-direction: column;
     
-}
+} */
