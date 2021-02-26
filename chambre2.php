@@ -2,7 +2,7 @@
 include './header.php';
 ?>
 
-<body>
+<div id="marge">
     <section class="section2">
         <section class="section_border">
             <h3>Chambre Premier Étage (Coquillages)</h3>
@@ -40,8 +40,7 @@ include './header.php';
                 </div>
             </div>
         </section>
-
-</body>
+</div>
 
 <?php
 include './footer.php';
