@@ -1,3 +1,7 @@
+<?php
+include './header.php';
+?>
+
 <body>
     <section class="section2">
         <section class="section_border">
@@ -37,6 +41,8 @@
             </div>
         </section>
 
-
-
 </body>
+
+<?php
+include './footer.php';
+?>
