@@ -21,21 +21,21 @@ include './header.php';
         <section id="galerie">
             <div class="grid_container">
                 <div class="box grid_item">
-                    <img src="./images/chambre2etage.jpg">
+                    <img src="./images/23tabled.jpg.jpg">
 
                 </div>
 
                 <div class="box grid_item">
-                    <img src="./images/chambre2etage1.jpg">
+                    <img src="./images/23tabled.jpg.jpg">
 
                 </div>
 
                 <div class="box grid_item">
-                    <img src="./images/chambre2etage2.jpg">
+                    <img src="./images/23tabled.jpg.jpg">
 
                 </div>
                 <div class="box grid_item">
-                    <img src="./images/chambre2etage3.jpg">
+                    <img src="./images/23tabled.jpg.jpg">
 
                 </div>
             </div>

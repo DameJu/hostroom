@@ -63,6 +63,7 @@ button{
 
 
 /*parallax*/
+
 .parallax {
     background-image: url("./unknown.png");
     min-height: 500px;
@@ -79,4 +80,8 @@ button{
 #marge{
     
     padding: 20px;
+}
+
+img{
+    width: 100px;
 }

@@ -17,6 +17,7 @@
                         <li><a href="#">Chambre 3</a></li>
                     </ul>
                 </li>
+                <li class="menu2"><a href="./sejour.php">Séjour</a></li>
                 <li class="menu2"><a href="#">Lien office de tourisme</a></li>
                 <li class="menu2"><a href="#">Page de réservation</a></li>
                 <li class="menu2"><a href="#">Contact</a></li>
