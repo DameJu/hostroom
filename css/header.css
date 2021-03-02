@@ -22,13 +22,11 @@ body{
     margin-top: 0%;
 }
 
-
-
 /*nav barre*/
 
 #menu ul {
     margin-left: 10%;
-    margin-right: 10%;
+    width: 77%;
     list-style-type: none;
     text-align: center;
     position: fixed;
@@ -81,21 +79,6 @@ button{
     top: 2%;
     right: 1%
 }
-
-
-/*parallax*/
-
-.parallax {
-    background-image: url("../images/vélo.jpg");
-    min-height: 400px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-top: 0px;
-   
-}
-
 
 /*séjour*/
 
