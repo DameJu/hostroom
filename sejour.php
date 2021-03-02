@@ -18,27 +18,27 @@ include './header.php';
 
     <h5>Photos de la chambre  Premier Étage (Coquillages) </h5>
     <section class="premieretage">
-        <section id="galerie">
-            <div class="grid_container">
-                <div class="box grid_item">
-                    <img src="./images/23tabled.jpg.jpg">
+        <section id="gallery">
+            
+                <div class="image_sejour">
+                    <img class="photos" src="../hostroom/images/séjour.jpg">
 
                 </div>
 
-                <div class="box grid_item">
-                    <img src="./images/23tabled.jpg.jpg">
+                <div class="image_sejour">
+                <img class="photos" src="../hostroom/images/séjour.jpg">
 
                 </div>
 
-                <div class="box grid_item">
-                    <img src="./images/23tabled.jpg.jpg">
+                <div class="image_sejour">
+                <img class="photos" src="../hostroom/images/séjour.jpg">
 
                 </div>
-                <div class="box grid_item">
-                    <img src="./images/23tabled.jpg.jpg">
+                <div class="image_sejour">
+                <img class="photos" src="../hostroom/images/séjour.jpg">
 
                 </div>
-            </div>
+            
         </section>
 
 </div>

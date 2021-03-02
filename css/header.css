@@ -77,12 +77,21 @@ button{
 }
 
 
-/*chambre 1*/
-#marge{
-    
-    padding: 20px;
+/*séjour*/
+
+.photos{
+    width: 200px;
+  
 }
 
-img{
-    width: 100px;
+.gallery{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    width: 80%;
+    margin-left: 20%;
+}
+
+.image_sejour{
+    grid-column: span 3;s
 }
