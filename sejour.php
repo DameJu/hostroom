@@ -2,23 +2,23 @@
 include './header.php';
 ?>
 
-<div id="marge">
-    <section class="section4">
-        <section class="section_border">
-            <h3>
-                La salle du petit déjeuner
-            </h3>
-            <p id="texte4">Vous prendrez votre petit déjeuner dans notre salle de séjour.<br>
-                           Le petit déjeuner vous sera servi de 8h45mn à 10h00mn.<br>
-                           A notre table :<br>
-                           Croissant,baguette,confiture,yaourt et jus d'orange.</p>
-        </section>
+<section class="marge">
 
-    </section>
+<br><br><br>
+    
+    <h3>La salle du petit déjeuner</h3>
+
+        <p id="texte4">Vous prendrez votre petit déjeuner dans notre salle de séjour.<br>
+                        Le petit déjeuner vous sera servi de 8h45mn à 10h00mn.<br>
+                        A notre table :<br>
+                        Croissant,baguette,confiture,yaourt et jus d'orange.</p>
+        
+
+    
 
     <h5>Photos de la chambre  Premier Étage (Coquillages) </h5>
-    <section class="premieretage">
-        <section id="gallery">
+    
+        <div class="gallery">
             
                 <div class="image_sejour">
                     <img class="photos" src="../hostroom/images/séjour.jpg">
@@ -38,10 +38,10 @@ include './header.php';
                 <img class="photos" src="../hostroom/images/séjour.jpg">
 
                 </div>
-            
-        </section>
+        </div>
+    
 
-</div>
+</section>
 
 <?php
 include './footer.php';
