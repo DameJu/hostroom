@@ -77,26 +77,26 @@ button{
 }
 
 /*margin-top*/
-/*
+
 .marge{
     
-    margin-top: 200px;
+    margin-top: 20px;
 
 }
 
 /*séjour*/
 
 .photos{
-    width: 20px;
-
+    width: 200px;
 }
-
+ 
 .gallery{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-gap: 60px;
-    width: 80%;
+    grid-gap: 20px;
+    width: 80%; 
     margin-left: 20%;
+    
 }
 
 .image_sejour{
