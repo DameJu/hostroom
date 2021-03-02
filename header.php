@@ -5,6 +5,8 @@
 
 </head>
 <body>
+
+
 <header>
         
         <div id="menu">
@@ -29,6 +31,7 @@
         <button id="connexion">Connexion</button>
         
     </header>
+    <section class="fond">
 
 
 

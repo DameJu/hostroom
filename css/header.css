@@ -1,21 +1,41 @@
 body{
     margin: 0;
-    background-color: #c2c2c1;
+    background-image : url('../images/vélo.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
+ /*section grise*/
+.fond{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: grey;
+    padding-left: 2%;
+    padding-top: 5%;
+    margin-top: 0%;
+}
+
+/*margin-top des pages*/
+.marge{
+    margin-top: 0%;
+}
+
+
 
 /*nav barre*/
 
-
 #menu ul {
-    margin: 0;
-    padding: 0;
+    margin-left: 10%;
+    margin-right: 10%;
     list-style-type: none;
     text-align: center;
     position: fixed;
-    top:0;
+    margin-top:0%;
     height: 10vh;
     background-color: #c2c2c1;
-    width: 100%;
+   
 }
 
 #menu li {
@@ -76,13 +96,6 @@ button{
    
 }
 
-/*margin-top*/
-
-.marge{
-    
-    margin-top: 20px;
-
-}
 
 /*séjour*/
 
@@ -96,7 +109,6 @@ button{
     grid-gap: 20px;
     width: 80%; 
     margin-left: 20%;
-    
 }
 
 .image_sejour{

@@ -4,7 +4,7 @@ include './header.php';
 
 <section class="marge">
 
-<br><br><br>
+
     
     <h3>La salle du petit déjeuner</h3>
 
