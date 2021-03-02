@@ -38,10 +38,10 @@ include './header.php';
                     <img src="./images/23tabled.jpg">
 
                 </div>
-            </div>
-        </section>
+        </div>
+    
 
-</div>
+</section>
 
 <?php
 include './footer.php';
