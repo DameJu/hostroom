@@ -5,7 +5,7 @@ include './header.php';
 <div id="marge">
     <section class="section2">
         <section class="section_border">
-            <h3>Chambre Premier Étage (Coquillages)</h3>
+            <h1>Chambre Premier Étage (Coquillages)</h1>
             <p id="texte2">Chambre au premier étage de notre maison.<br>
                            Avec un lit de deux personnes, salle d'eau et WC privé à la chambre.<br>
                            Prix :<br>
@@ -16,7 +16,7 @@ include './header.php';
 
     </section>
 
-    <h5>Photos de la chambre  Premier Étage (Coquillages) </h5>
+    <h1>Photos de la chambre  Premier Étage (Coquillages) </h1>
     <section class="premieretage">
         <section id="galerie">
             <div class="grid_container">

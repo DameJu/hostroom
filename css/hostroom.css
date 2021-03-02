@@ -62,17 +62,29 @@ nav > ul li:hover .under{
 /*parallax*/
 
 .parallax{
-    background-image: url(/images/unknown.png);
+    background-image: url(../images/accueil.jpg);
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size:cover;
-    /*
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-   */
-    
+    background-size:cover;  
 }
+
+/*sejour*/
+
+.sejour{
+    width: 250px;
+}
+    
+    .grid_container{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+        grid-gap: 10px;
+        line-height : 0;
+    }
+   
+    .box_grid_item {
+        grid-column: span 4;
+    }
+ 
+    
