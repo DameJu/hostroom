@@ -17,30 +17,20 @@ include './header.php';
     </section>
 
     <h1>Photos de la chambre  Premier Étage (Coquillages) </h1>
-    <section class="premieretage">
-        <section id="galerie">
-            <div class="grid_container">
-                <div class="box grid_item">
-                    <img src="./images/image.jpg">
+    <div class="gallery">
+            <div class="image_sejour">
+                
+                <img class="photos" src="./images/image.jpg">
 
-                </div>
+                <img class="photos" src="./images/chambreetage.jpg">
+                
+                <img class="photos" src="./images/chambreetage1.jpg">
 
-                <div class="box grid_item">
-                    <img src="./images/chambreetage.jpg">
+                <img class="photos" src="./images/chambreetage2.jpg">
 
-                </div>
-
-                <div class="box grid_item">
-                    <img src="./images/chambreetage1.jpg">
-
-                </div>
-                <div class="box grid_item">
-                    <img src="./images/chambreetage2.jpg">
-
-                </div>
+                
             </div>
-        </section>
-</div>
+        </div>
 
 <?php
 include './footer.php';
