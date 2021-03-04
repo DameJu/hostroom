@@ -21,11 +21,11 @@
                     </ul>
                 </li>
                 <li class="menu2"><a href="./sejour.php">Séjour</a></li>
-                <li class="menu2"><a href="#">Lien office de tourisme</a></li>
-                <li class="menu2"><a href="#">Page de réservation</a></li>
-                <li class="menu2"><a href="#">Contact</a></li>
-                <li class="menu2"><a href="#">Commentaires</a></li>
-                <li class="menu2"><a href="#">Plan d'accès</a></li>
+                <li class="menu2"><a href="./office_de_tourisme.php">Lien office de tourisme</a></li>
+                <li class="menu2"><a href="./page_reservation.php">Page de réservation</a></li>
+                <li class="menu2"><a href="./contact.php">Contact</a></li>
+                <li class="menu2"><a href="./commentaires.php">Commentaires</a></li>
+                <li class="menu2"><a href="./plan_acces.php">Plan d'accès</a></li>
                 
             </ul>
         </div>
