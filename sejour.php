@@ -8,7 +8,7 @@ include './header.php';
             <h1>
                 La salle du petit déjeuner
             </h1>
-            <p id="texte4">Vous prendrez votre petit déjeuner dans notre salle de séjour.<br>
+            <p class="paragraphe">Vous prendrez votre petit déjeuner dans notre salle de séjour.<br>
                            Le petit déjeuner vous sera servi de 8h45mn à 10h00mn.<br>
                            A notre table :<br>
                            Croissant,baguette,confiture,yaourt et jus d'orange.</p>

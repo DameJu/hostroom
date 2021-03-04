@@ -84,7 +84,14 @@ button{
 
 /*titre*/
 h1{
-    font-size: 1.5em;
+    font-size: 2.5em;
+    text-align: center;
+}
+/*séjour*/
+
+.paragraphe {
+
+   text-align: center ;
 }
 
 /*galerie*/
@@ -104,6 +111,8 @@ h1{
     grid-column: span 6;
    
 }
+
+
 
 /* footer*/
 #ligne{
