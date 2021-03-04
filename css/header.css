@@ -7,6 +7,7 @@ body{
     background-size: cover;
     font-family: 'Playfair Display', serif;
 }
+
  /*section grise*/
 .fond{
     margin-left: 10%;
@@ -28,7 +29,7 @@ body{
 
 #menu ul {
     margin-left: 10%;
-    width: 77%;
+    width:77%;
     list-style-type: none;
     text-align: center;
     position: fixed;
@@ -99,6 +100,7 @@ h1{
 }
 
 #img_accueil{
+
     width: 400px;
     display: block;
     margin-left: auto;
@@ -108,10 +110,12 @@ h1{
 /*galerie*/
 
 .photos{
+
     width: 200px;
 }
  
 .gallery{
+
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-gap: 5px;
@@ -119,6 +123,7 @@ h1{
 }
 
 .image_sejour{
+
     grid-column: span 6;
    
 }
@@ -126,22 +131,25 @@ h1{
 
 
 /* footer*/
-#ligne{
-    border-top: 2px dashed black;
-    width: 95%;
-    margin-bottom: 2%;
-    margin-top: 20px;
-   
-}
+ 
 
 .footer_contact{
+
     text-align: center;
     font-family: 'Playfair Display', serif;
     font-weight: bold;
     /* color: blanchedalmond; */
+
 }
 
 #cadre{
+
     margin-bottom: 2%;
-    color: black;
+    border-color: black;
+}
+
+#marginfooter{
+
+    margin-top: 2%;
+    
 }
