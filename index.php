@@ -5,8 +5,8 @@ include './header.php';
 
 <!-- <h1>Bienvenue aux chambres d'hôtes "Welcome"!</h1> -->
 <h1>Bienvenue sur la Côte d'Opale<br>
-"Welcome"!<br>
-Chambres d'Hôtes</h1>
+Chambres d'Hôtes <br>
+"Welcome"!</h1>
 
 </fieldset>
 
