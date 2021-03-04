@@ -2,7 +2,7 @@
 <section id="ligne"></section>
 
 <fieldset>
-<p class="footer_contact"> - Catherine et Daniel BIGOT - <br>
+<p class="footer_contact">  Catherine et Daniel BIGOT  <br>
 
 Vous accueillent dans leur maison : <br>
 47, Avenue des Peupliers <br>
