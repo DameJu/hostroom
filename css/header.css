@@ -121,6 +121,15 @@ h1{
     grid-column: span 6;
 }
 
+/* .cb{
+    display: flex;
+    flex-direction: column;
+}
+
+.cb img{
+    width: 100px;
+} */
+
 /* footer*/
  
 .footer_contact{
@@ -139,7 +148,5 @@ h1{
     margin-top: 2%;   
 }
 
-a{
-    text-decoration: none;
-    color: black;
-}
+   
+
