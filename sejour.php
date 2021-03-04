@@ -17,31 +17,22 @@ include './header.php';
     </section>
 
     <h1>séjour</h1>
-    <section class="sejour">
-        <section id="galerie">
-            <div class="grid_container">
-                <div class="box grid_item">
-                    <img src="./images/23tabled.jpg">
 
-                </div>
+        <div class="gallery">
+            <div class="image_sejour">
+                
+                <img class="photos" src="./images/23tabled.jpg">
 
-                <div class="box grid_item">
-                    <img src="./images/23tabled.jpg">
+                <img class="photos" src="./images//23tabled.jpg">
+                
+                <img class="photos" src="./images/23tabled.jpg">
 
-                </div>
+                <img class="photos" src="./images/23tabled.jpg">
 
-                <div class="box grid_item">
-                    <img src="./images/23tabled.jpg">
-
-                </div>
-                <div class="box grid_item">
-                    <img src="./images/23tabled.jpg">
-
-                </div>
+                
+            </div>
         </div>
-    
 
-</section>
 
 <?php
 include './footer.php';
