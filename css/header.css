@@ -58,6 +58,10 @@ body{
 
 #menu ul li ul {
     display: none;
+    width: 10%;
+    margin: 0;  
+    margin-left: 1%;
+    padding: 0;
 }
 
 #menu ul li:hover ul {
