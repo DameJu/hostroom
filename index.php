@@ -3,7 +3,7 @@ include './header.php';
 ?>
 <fieldset id="cadre">
 
-<!-- <h1>Bienvenue aux chambres d'hôtes "Welcome"!</h1> -->
+
 <h1>Bienvenue sur la Côte d'Opale<br>
 Chambres d'Hôtes <br>
 "Welcome"!</h1>

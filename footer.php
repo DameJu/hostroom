@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="./css/header.css">
 <section id="marginfooter" ></section>
 
-<fieldset>
+<fieldset id="cadre">
 <p class="footer_contact">  Catherine et Daniel BIGOT  <br>
 
 Vous accueillent dans leur maison : <br>
@@ -17,8 +17,8 @@ E 1.62036° <br>
 Animaux non admis </h3></strong>
 </fieldset>
 
-<a href="./mention_legales.php">Mention légales|Politique de confidentialité</a>
-
+<a href="./mention_legales.php">Mention légales</a>
+<a href="#">|Politique de confidentialité</a>
 
 
 
