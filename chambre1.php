@@ -18,32 +18,20 @@ include './header.php';
     </section>
 
     <h5>Photos de la chambre Rez-de-haussée</h5>
-    <section class="rezdechaussee">
-    <section id="galerie">
-    <div class="grid_container">
-    <div class="box grid_item">
-                <img src="./images/chamres côté jardin 001.JPG" >
+    <div class="gallery">
+            <div class="image_sejour">
+                
+                <img class="photos" src="./images/image (2).jpg">
 
+                <img class="photos" src="./images/IMG_1653.JPG">
+                
+                <img class="photos" src="./images/chamres côté jardin 011.JPG">
+
+                <img class="photos" src="./images/IMG_1655.JPG">
+
+                
             </div>
-
-            <div class="box grid_item" >
-                <img src="./images/chamres côté jardin 002.JPG" >
-
-            </div>
-
-            <div class="box grid_item">
-                <img src="./images/chamres côté jardin 006.JPG">
-
-            </div>
-            <div class="box grid_item">
-                <img src="./images/chamres côté jardin 011.JPG">
-
-            </div>
-    </div>
-    </section>
-    
-
-</div>
+        </div>
 
 <?php
 include './footer.php';
