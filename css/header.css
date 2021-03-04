@@ -128,7 +128,14 @@ h1{
    
 }
 
+/* .cb{
+    display: flex;
+    flex-direction: column;
+}
 
+.cb img{
+    width: 100px;
+} */
 
 /* footer*/
  
@@ -151,5 +158,5 @@ h1{
 #marginfooter{
 
     margin-top: 2%;
-    
+
 }
