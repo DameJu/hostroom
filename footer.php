@@ -32,8 +32,8 @@ Animaux non admis </h3></strong>
 
 </fieldset>
 
-<a href="./mention_legales.php">Mention légales|Politique de confidentialité</a>
-
+<a href="./mention_legales.php">Mention légales</a>
+<a href="#">|Politique de confidentialité</a>
 
 
 

@@ -12,7 +12,7 @@ body{
 .fond{
     margin-left: 10%;
     margin-right: 10%;
-    background-color: rgba(37, 50, 236, 0.911);
+    background-color: rgba(113, 121, 233, 0.911);
     padding-left: 2%;
     padding-right: 2%;
     padding-top: 6%;
@@ -35,7 +35,7 @@ body{
     position: fixed;
     margin-top:0%;
     height: 10vh;
-    background-color: #c2c2c1;
+    background-color: #d3d3cf;
    
 }
 
@@ -95,12 +95,10 @@ h1{
 /*séjour*/
 
 .paragraphe {
-
    text-align: center ;
 }
 
 #img_accueil{
-
     width: 400px;
     display: block;
     margin-left: auto;
@@ -110,22 +108,17 @@ h1{
 /*galerie*/
 
 .photos{
-
     width: 200px;
 }
  
 .gallery{
-
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-gap: 5px;
-    
 }
 
 .image_sejour{
-
     grid-column: span 6;
-   
 }
 
 /* .cb{
@@ -139,24 +132,21 @@ h1{
 
 /* footer*/
  
-
 .footer_contact{
-
     text-align: center;
     font-family: 'Playfair Display', serif;
     font-weight: bold;
     /* color: blanchedalmond; */
-
 }
 
 #cadre{
-
     margin-bottom: 2%;
     border-color: black;
 }
 
 #marginfooter{
-
-    margin-top: 2%;
-
+    margin-top: 2%;   
 }
+
+   
+
