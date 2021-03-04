@@ -13,8 +13,8 @@ Portable : 06.21.46.68.98 <br>
 E-mail : bigot.catherine@club-internet.fr <br> <br>
 Coordonnées GPS : <br>
 N 50.49449° <br>
-E 1.62036° <br> <br>
-Animaux non admis </p>
+E 1.62036° <br> 
+Animaux non admis </h3></strong>
 </fieldset>
 
 </section>
