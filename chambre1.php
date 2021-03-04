@@ -5,8 +5,15 @@ include './header.php';
 
 <div id="marge">
     <section class="section1">
+
     <section class="section_border">
+
+    <fieldset id="cadre">
+
         <h1>Chambre Rez-de-Chaussée</h1>
+
+    </fieldset>
+        
         <p id="texte1"> Une chambre double, deux lits d'une personne.<br>
                         Micro-onde et réfrigérateur, salle d'eau et WC privé à la chambre.<br>
                         Prix :<br>
@@ -18,7 +25,6 @@ include './header.php';
 
     </section>
 
-    <h1>Photos de la chambre</h1>
     <div class="gallery">
             <div class="image_sejour">
                 

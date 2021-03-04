@@ -6,7 +6,7 @@ include './header.php';
 
 <h1>Bienvenue sur la Côte d'Opale<br>
 Chambres d'Hôtes<br>
-"Welcome"!</h1>
+"Welcome"</h1>
 
 </fieldset>
 

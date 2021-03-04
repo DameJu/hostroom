@@ -5,7 +5,15 @@ include './header.php';
 <div id="marge">
     <section class="section2">
         <section class="section_border">
-            <h1>Chambre Premier Étage (Coquillages)</h1>
+
+        <fieldset id="cadre">
+
+            <h1>
+                Chambre Premier Étage
+            </h1>
+
+        </fieldset>
+
             <p id="texte2">Chambre au premier étage de notre maison.<br>
                            Avec un lit de deux personnes, salle d'eau et WC privé à la chambre.<br>
                            Prix :<br>
@@ -15,8 +23,7 @@ include './header.php';
         </section>
 
     </section>
-
-    <h1>Photos de la chambre  Premier Étage (Coquillages) </h1>
+    
     <div class="gallery">
             <div class="image_sejour">
                 
