@@ -15,6 +15,7 @@ body{
     padding-left: 2%;
     padding-top: 6%;
     margin-top: 0%;
+    padding-bottom: 4%;
 }
 
 /*margin-top des pages*/
@@ -96,4 +97,13 @@ button{
 
 .image_sejour{
     grid-column: span 6;
+}
+
+/*ligne footer*/
+#ligne{
+    border-top: 2px dashed rgb(238, 133, 72);
+    width: 95%;
+    margin-bottom: 50px;
+    margin-top: 20px;
+   
 }
