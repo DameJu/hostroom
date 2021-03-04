@@ -12,12 +12,12 @@
         
         <div id="menu">
             <ul>
-                <li class="menu2"><a href="#">Accueil</a></li>
+                <li class="menu2"><a href="./index.php">Accueil</a></li>
                 <li class="menu2"><a href="#">Chambres</a>
                     <ul>
-                        <li><a href="#">Chambre 1</a></li>
-                        <li><a href="#">Chambre 2</a></li>
-                        <li><a href="#">Chambre 3</a></li>
+                        <li><a href="./chambre1.php">Chambre 1</a></li>
+                        <li><a href="./chambre2.php">Chambre 2</a></li>
+                        <li><a href="./chambre3.php">Chambre 3</a></li>
                     </ul>
                 </li>
                 <li class="menu2"><a href="./sejour.php">Séjour</a></li>
