@@ -5,7 +5,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
+    font-family: 'Playfair Display', serif;
 }
  /*section grise*/
 .fond{
@@ -13,9 +13,10 @@ body{
     margin-right: 10%;
     background-color: grey;
     padding-left: 2%;
+    padding-right: 2%;
     padding-top: 6%;
     margin-top: 0%;
-    padding-bottom: 4%;
+    padding-bottom: 1%;
 }
 
 /*margin-top des pages*/
@@ -45,14 +46,14 @@ body{
 
 #menu li a {
     display: block;
-    width: 100px;
+    padding-top: 15px ;
     color: black;
     text-decoration: none;
-    padding: 5px;
+    margin-left: 30px;
 }
 
 #menu li a:hover {
-    color: #ffc400;
+    color: #4a7ddb;
 }
 
 #menu ul li ul {
@@ -81,29 +82,39 @@ button{
     right: 1%
 }
 
-/*séjour*/
+/*titre*/
+h1{
+    font-size: 1.5em;
+}
+
+/*galerie*/
 
 .photos{
-    width: 250px;
+    width: 200px;
 }
  
 .gallery{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-gap: 40px;
-    width: 100%;
-    margin-left: 20%;
+    grid-gap: 5px;
+    
 }
 
 .image_sejour{
     grid-column: span 6;
+   
 }
 
-/*ligne footer*/
+/* footer*/
 #ligne{
     border-top: 2px dashed rgb(238, 133, 72);
     width: 95%;
-    margin-bottom: 50px;
+    margin-bottom: 2%;
     margin-top: 20px;
    
+}
+
+.footer_contact{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
 }

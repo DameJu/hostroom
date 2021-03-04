@@ -6,7 +6,7 @@ include './header.php';
 <div id="marge">
     <section class="section1">
     <section class="section_border">
-        <h3>Chambre rez-de-chaussée</h3>
+        <h1>Chambre rez-de-chaussée</h1>
         <p id="texte1"> Une chambre double, deux lits d'une personne.<br>
                         Micro-onde et réfrigérateur, salle d'eau et WC privé à la chambre.<br>
                         Prix :<br>
@@ -18,7 +18,7 @@ include './header.php';
 
     </section>
 
-    <h5>Photos de la chambre Rez-de-haussée</h5>
+    <h1>Photos de la chambre Rez-de-haussée</h1>
     <div class="gallery">
             <div class="image_sejour">
                 
