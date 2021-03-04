@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="./css/header.css">
 <section id="marginfooter" ></section>
 
-<fieldset id="cadre">
-<strong><h3 class="footer_contact"> - Catherine et Daniel Bigot - <br><br>
+<fieldset>
+<p class="footer_contact">  Catherine et Daniel BIGOT  <br>
 
 Vous accueillent dans leur maison : <br>
 47, Avenue des Peupliers <br>
