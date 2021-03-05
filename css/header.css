@@ -124,16 +124,22 @@ h1{
 
 .photos{
     width: 200px;
+    grid-column: span 3;
 }
  
 .gallery{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-gap: 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+    
 }
 
 .image_sejour{
-    grid-column: span 6;
+    width: 60%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr ;
+    grid-gap: 5px;
+    
 }
 
 /* footer*/
@@ -151,7 +157,7 @@ h1{
 .cb{
     display: inline-block;
     text-align: center;
-    padding-left: 5%;
+    padding-left: 7.5%;
 }
 
 .cb img{
