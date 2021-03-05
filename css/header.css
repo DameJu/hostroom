@@ -20,23 +20,14 @@ body{
     padding-bottom: 1%;
 }
 
-/*margin-top des pages*/
-.marge{
-    margin-top: 0%;
-}
-
 /*nav barre*/
-
 #menu ul {
     
     margin: 0%;
     padding: 0%;
     list-style-type: none;
     text-align: center;
-    position: fixed;
-    
     background-color: #d3d3cf;
-   
 }
 
 #menu li {
@@ -75,6 +66,10 @@ body{
 
 #menu li ul {
     position: absolute;
+}
+
+.menu2{
+    margin-bottom: 20px;
 }
 
 /*connexion*/
@@ -125,6 +120,7 @@ h1{
 #cadre{
     margin-bottom: 2%;
     border-color: black;
+    width: 100%;
 }
 
 #marginfooter{
@@ -134,7 +130,7 @@ h1{
 .cb{
     display: inline-block;
     text-align: center;
-    padding-left: 11.7%;
+    padding-left: 5%;
 }
 
 .cb img{
