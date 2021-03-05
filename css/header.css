@@ -6,7 +6,13 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Playfair Display', serif;
-    
+    cursor: crosshair;
+}
+img{
+    transition: transform 2s;
+}
+img:hover{
+    transform: scale(1.2);
 }
 
  /*section bleu*/
@@ -147,7 +153,7 @@ align-items: center;
 #cadre{
     margin-bottom: 2%;
     border-color: black;
-    width: 100%;
+    width: 97%;
 }
 
 #marginfooter{
@@ -158,6 +164,7 @@ align-items: center;
     display: inline-block;
     text-align: center;
     padding-left: 7.5%;
+    align-items: center;
 }
 
 .cb img{
