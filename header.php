@@ -9,26 +9,25 @@
 
 <section class="fond">
 <header>
+<nav>     
+<ul>
+    <li><a href="./index.php">Accueil</a></li>
+    <li class="deroulant"><a href="#">Chambres &ensp;</a>
+      <ul class="sous">
         
-        <div id="menu">
-            <ul>
-                <li class="menu2"><a href="./index.php">Accueil</a></li>
-                <li class="menu2"><a href="#">Chambres</a>
-                    <ul>
-                        <li><a href="./chambre1.php">Chambre 1</a></li>
-                        <li><a href="./chambre2.php">Chambre 2</a></li>
-                        <li><a href="./chambre3.php">Chambre 3</a></li>
-                    </ul>
-                </li>
-                <li class="menu2"><a href="./sejour.php">Séjour</a></li>
-                <li class="menu2"><a href="./office_de_tourisme.php">Lien office de tourisme</a></li>
-                <li class="menu2"><a href="./page_reservation.php">Page de réservation</a></li>
-                <li class="menu2"><a href="./contact.php">Contact</a></li>
-                <li class="menu2"><a href="./commentaires.php">Commentaires</a></li>
-                <li class="menu2"><a href="./plan_acces.php">Plan d'accès</a></li>
-                
-            </ul>
-        </div>
+        <li><a href="./chambre1.php">Chambre 1</a></li>
+        <li><a href="./chambre2.php">Chambre 2</a></li>
+        <li><a href="./chambre3.php">Chambre 3</a></li>
+      </ul>
+    </li>
+    <li><a href="./sejour.php">Séjour</a></li>
+    <li><a href="./office_de_tourisme.php">Lien office de tourisme</a></li>
+    <li><a href="./page_reservation.php">Page de réservation</a></li>
+    <li><a href="./contact.php">Contact</a></li>
+    <li><a href="./commentaires.php">Commentaires</a></li>
+    <li><a href="./plan_acces.php">Plan d'accès</a></li>
+</nav>  
+  </ul>
         <button id="connexion">Connexion</button>
         
     </header>
