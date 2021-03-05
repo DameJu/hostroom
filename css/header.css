@@ -20,16 +20,13 @@ body{
 }
 
 /*nav barre*/
-
 #menu ul {
     
     margin: 0%;
     padding: 0%;
     list-style-type: none;
     text-align: center;
-    position: fixed;
     background-color: #d3d3cf;
-  
 }
 
 #menu li {
@@ -68,6 +65,10 @@ body{
 
 #menu li ul {
     position: absolute;
+}
+
+.menu2{
+    margin-bottom: 20px;
 }
 
 /*connexion*/
