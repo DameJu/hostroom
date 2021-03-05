@@ -2,7 +2,7 @@ nav{
     width: 100%;
     margin: 0;
     padding: 0;
-    background-color: rgb(192, 120, 120);
+    background-color: #d3d3cf;
     position: sticky;
     
 }
@@ -34,13 +34,13 @@ nav a{
 }
 
 nav a:hover{
-    color: orange;
-    border-bottom: 2px solid gold;
+    color: #4a7ddb;
+    border-bottom: 2px solid rgb(148, 142, 142);
 }
 
 .sous{
     display: none;
-    background-color: rgb(17, 184, 31);
+    background-color: rgba(113, 121, 233, 0.911);
     position: absolute;
     width: 100%;
     z-index: 1000;
