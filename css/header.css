@@ -9,7 +9,7 @@ body{
     
 }
 
- /*section grise*/
+ /*section bleu*/
 .fond{
     margin-left: 10%;
     margin-right: 10%;
@@ -17,7 +17,7 @@ body{
     padding-left: 2%;
     padding-right: 2%;
     margin-top: 0%;
-    padding-bottom: 1%;
+    padding-bottom: 1%;    
 }
 
 /*nav barre*/
@@ -161,38 +161,17 @@ h1{
 
 /*chambre1*/
 
-#texte1{
-
+.texte{
    text-align: center;
    font-weight: bold;
    font-size: large;
-
 }
 
-/*chambre2*/
-
-#texte2{
-
+.centrer_lien{
+    display: block;
     text-align: center;
+    text-decoration: none;
     font-weight: bold;
-    font-size: large;
-
-}
-
-.paragraphe{
-
-    text-align: center;
-    font-weight: bold;
-    font-size: large;
-    
-}
-
-/*chambre3*/
-
-#texte3{
-
-    text-align: center;
-    font-weight: bold;
-    font-size: large;
+    color: rgb(95, 29, 126);
 
 }

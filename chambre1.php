@@ -14,7 +14,7 @@ include './header.php';
 
     </fieldset>
 
-        <p id="texte1"> Une chambre double, deux lits d'une personne.<br>
+        <p class="texte"> Une chambre double, deux lits d'une personne.<br>
                         Micro-onde et réfrigérateur, salle d'eau et WC privé à la chambre.<br>
                         Prix :<br>
                         1 personne 60 €<br>

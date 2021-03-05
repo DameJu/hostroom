@@ -14,7 +14,7 @@ include './header.php';
 
         </fieldset>
 
-            <p id="texte2">Chambre au premier étage de notre maison.<br>
+            <p class="texte">Chambre au premier étage de notre maison.<br>
                            Avec un lit de deux personnes, salle d'eau et WC privé à la chambre.<br>
                            Prix :<br>
                            1 personne 60 €<br>

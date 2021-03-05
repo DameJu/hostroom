@@ -19,7 +19,7 @@ include './header.php';
 
         </fieldset>
 
-            <p id="texte3">Une chambre 2 à 4 personnes, au deuxième étages de notre maison.<br>
+            <p class="texte">Une chambre 2 à 4 personnes, au deuxième étages de notre maison.<br>
                            Un lit de deux personnes et deux lits d'une personne, réfrigérateur et micro-onde.<br>
                            Salle d'eau et WC privé a la chambre.<br>
                            Prix :<br>

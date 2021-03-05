@@ -2,14 +2,12 @@
 include './header.php';
 ?>
 
-Les Offices de tourisme alentours:
-<br>
-<a href="https://www.berck-tourisme.com/fr/"> Berck </a> <br>
-<a href="http://www.stella-plage.fr/">stella</a> <br>
-<a href="https://www.tourisme-etaples.com/fr/accueil/">étaples</a> <br>
-<a href="https://www.letouquet.com/">touquet</a> <br>
+<p class="texte">Les Offices de tourisme alentours: </p>
 
-
+<a class="centrer_lien" href="https://www.berck-tourisme.com/fr/"> Berck </a> <br>
+<a class="centrer_lien" href="http://www.stella-plage.fr/">Stella-Plage</a> <br>
+<a class="centrer_lien" href="https://www.tourisme-etaples.com/fr/accueil/">Etaples</a> <br>
+<a class="centrer_lien" href="https://www.letouquet.com/">Le Touquet</a> <br>
 
 
 <?php
