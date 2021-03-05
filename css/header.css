@@ -94,6 +94,7 @@ h1{
 }
 
 #img_accueil{
+
     width: 400px;
     display: block;
     margin-left: auto;
@@ -117,6 +118,7 @@ h1{
 }
 
 /* footer*/
+
 #cadre{
     margin-bottom: 2%;
     border-color: black;
@@ -137,3 +139,33 @@ h1{
     width: 100px;
     padding-bottom: 100%;
 } 
+
+/*chambre1*/
+
+#texte1{
+
+   text-align: center;
+   font-weight: bold;
+   font-size: large;
+
+}
+
+/*chambre2*/
+
+#texte2{
+
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+/*chambre3*/
+
+#texte3{
+
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+
+}

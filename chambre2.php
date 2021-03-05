@@ -27,13 +27,13 @@ include './header.php';
     <div class="gallery">
             <div class="image_sejour">
                 
-                <img class="photos" src="./images/image.jpg">
+                <img class="photos" src="./images/IMG_0483.JPG">
 
-                <img class="photos" src="./images/chambreetage.jpg">
+                <img class="photos" src="./images/IMG_0483.JPG">
                 
-                <img class="photos" src="./images/chambreetage1.jpg">
+                <img class="photos" src="./images/IMG_0483.JPG">
 
-                <img class="photos" src="./images/chambreetage2.jpg">
+                <img class="photos" src="./images/IMG_0483.JPG">
 
                 
             </div>
