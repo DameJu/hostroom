@@ -3,7 +3,7 @@
 
 <fieldset id="cadre">
 
-<div class="cb"><img src="./images/cb.jpg"></div>
+<div class="cb"><img src="./images/cb1.png"></div>
     
 <div class="cb">
     <h3 class="footer_contact">  Catherine et Daniel BIGOT  <br>
@@ -21,7 +21,7 @@
     Animaux non admis </h3>
 </div>
 
-<div class="cb"><img src="./images//ancv.jpg" alt=""></div>
+<div class="cb"><img src="./images/ancv1.png" alt=""></div>
 
 
 </fieldset>
