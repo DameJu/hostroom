@@ -12,7 +12,7 @@ include './header.php';
                 Séjour</h1>
             
         </fieldset>
-            <p class="paragraphe">
+            <p class="texte">
                 Vous prendrez votre petit déjeuner dans notre séjour.<br>
                            Le petit déjeuner vous sera servi de 8h45mn à 10h00mn.<br>
                            A notre table :<br>
