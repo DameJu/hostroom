@@ -121,24 +121,15 @@ h1{
     grid-column: span 6;
 }
 
-/* .cb{
-    display: flex;
-    flex-direction: column;
-}
-
-.cb img{
-    width: 100px;
-} */
-
 /* footer*/
- 
+ /*
 .footer_contact{
     text-align: center;
     font-family: 'Playfair Display', serif;
     font-weight: bold;
-    /* color: blanchedalmond; */
+     color: blanchedalmond; 
 }
-
+*/
 #cadre{
     margin-bottom: 2%;
     border-color: black;
@@ -148,5 +139,15 @@ h1{
     margin-top: 2%;   
 }
 
-   
+.cb{
+    display: inline-block;
+    text-align: center;
+    padding-left: 8%;
+}
+
+.cb img{
+    width: 100px;
+    padding-bottom: 100%;
+} 
+
 
