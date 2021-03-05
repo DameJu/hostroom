@@ -36,13 +36,13 @@ include './header.php';
 
             <div class="image_sejour">
                 
-                <img class="photos" src="./images/chambre2etage.jpg">
+                <img class="photos" src="./images/IMG_0470.JPG">
 
-                <img class="photos" src="./images/chambre2etage1.jpg">
+                <img class="photos" src="./images/IMG_0470.JPG">
                 
-                <img class="photos" src="./images/chambre2etage2.jpg">
+                <img class="photos" src="./images/IMG_0473.JPG">
 
-                <img class="photos" src="./images/chambre2etage3.jpg">
+                <img class="photos" src="./images/IMG_0474.JPG">
                 
             </div>
         </div>
