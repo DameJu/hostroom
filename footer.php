@@ -27,7 +27,7 @@
 </fieldset>
 
 <a class="" href="./mention_legales.php">Mention légales</a>
-<a href="#">|Politique de confidentialité</a>
+<a href="./politique_de_confidenlite.php">|Politique de confidentialité</a>
 
 
 
