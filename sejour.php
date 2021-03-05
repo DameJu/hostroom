@@ -9,13 +9,10 @@ include './header.php';
         <fieldset id="cadre">
 
             <h1>
-                séjour
-            </h1>
+                Séjour</h1>
             
         </fieldset>
-
             <p class="paragraphe">
-
                 Vous prendrez votre petit déjeuner dans notre séjour.<br>
                            Le petit déjeuner vous sera servi de 8h45mn à 10h00mn.<br>
                            A notre table :<br>
