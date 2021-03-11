@@ -7,8 +7,8 @@ body{
     background-size: cover;
     font-family: 'Playfair Display', serif;
     cursor: crosshair;
-    
 }
+
 img{
     transition: transform 2s;
 }
