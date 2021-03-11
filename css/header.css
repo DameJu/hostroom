@@ -99,9 +99,8 @@ nav > ul li:hover .sous{
 }
 /*connexion*/
 
-button{
+#connexion{
     border-radius: 10px 10px 10px 10px;
-    
     position: fixed;
     top: 2%;
     right: 1%
@@ -163,14 +162,12 @@ align-items: center;
 .cb{
     display: inline-block;
     text-align: center;
-    padding-left: 7.5%;
-    align-items: center;
 }
 
 .cb img{
-    width: 100px;
-    padding-bottom: 100%;
+    width: 150px;
 } 
+
 
 /*chambre1 + séjour*/
 
