@@ -29,7 +29,7 @@
  
   </ul></nav> 
         <button id="connexion">Connexion</button>
-        <a href="https://fr-fr.facebook.com/welcomopale.fr"><img src="./images/fb.png" ></a>
+        <a href="https://fr-fr.facebook.com/welcomopale.fr"><img id="logo_fb" src="./images/fb.png" ></a>
     </header>
   
   
