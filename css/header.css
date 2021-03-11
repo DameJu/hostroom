@@ -163,9 +163,11 @@ margin-left: 25%;
     margin-bottom: 2%;
     border-color: black;
     width: 97%;
-    /* position: auto; */
-   
-    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+  
 }
 
 #marginfooter{
@@ -175,7 +177,7 @@ margin-left: 25%;
 
 .cb{
 
-    display: inline-block;
+    display: inline-block; 
     text-align: center;
 }
 
@@ -214,7 +216,20 @@ input{
     width: 50%;
     height: 10%;
 }
-
+/*plan accés*/
 #plan{
-    width: 50%;
+    width: 60%;
+   
+}
+
+#bis{
+
+    display: flex;
+    justify-content: center;    
+
+}
+
+#iti{
+
+    margin-left: 20%;
 }
