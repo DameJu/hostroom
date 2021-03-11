@@ -23,7 +23,6 @@
     <li><a href="./sejour.php">Séjour</a></li>
     <li><a href="./office_de_tourisme.php">Lien office de tourisme</a></li>
     <li><a href="./page_reservation.php">Page de réservation</a></li>
-    <li><a href="./contact.php">Contact</a></li>
     <li><a href="./commentaires.php">Commentaires</a></li>
     <li><a href="./plan_acces.php">Plan d'accès</a></li>
  

@@ -21,7 +21,7 @@
     Animaux non admis </h3>
 </div>
 
-<div class="cb"><img id="droite" src="./images/ancv1.png" alt=""></div>
+<div class="cb"><img id="droite" src="./images/aancv.png" alt=""></div>
 
 
 </fieldset>
