@@ -157,19 +157,25 @@ margin-left: 25%;
     margin-bottom: 2%;
     border-color: black;
     width: 97%;
+    /* position: auto; */
+   
+    
 }
 
 #marginfooter{
-    margin-top: 2%;   
+    margin-top: 2%; 
+  
 }
 
 .cb{
+
     display: inline-block;
     text-align: center;
 }
 
 .cb img{
     width: 150px;
+
 } 
 
 
