@@ -7,6 +7,7 @@ body{
     background-size: cover;
     font-family: 'Playfair Display', serif;
     cursor: crosshair;
+    
 }
 img{
     transition: transform 2s;
@@ -43,7 +44,7 @@ nav ul{
 
 nav ul li{
     float: left;
-    width: 12%;
+    width: 14%;
     text-align: center;
     position: relative;
 }
@@ -193,7 +194,6 @@ margin-left: 25%;
 .centrer_lien{
     display: block;
     text-align: center;
-    text-decoration: none;
     font-weight: bold;
     color: rgb(95, 29, 126);
 }
