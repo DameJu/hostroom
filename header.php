@@ -26,10 +26,10 @@
     <li><a href="./contact.php">Contact</a></li>
     <li><a href="./commentaires.php">Commentaires</a></li>
     <li><a href="./plan_acces.php">Plan d'accès</a></li>
-</nav>  
-  </ul>
+ 
+  </ul></nav> 
         <button id="connexion">Connexion</button>
-        
+        <a href="https://fr-fr.facebook.com/welcomopale.fr"><img src="./images/fb.png" ></a>
     </header>
   
   
