@@ -26,8 +26,8 @@
 
 </fieldset>
 
-<a class="" href="./mention_legales.php">Mention légales</a>
-<a href="./politique_de_confidenlite.php">|Politique de confidentialité</a>
+<a class="petit" href="./mention_legales.php">Mention légales</a>
+<a class="petit" href="./politique_de_confidenlite.php">|Politique de confidentialité</a>
 
 
 
