@@ -100,18 +100,25 @@ nav > ul li:hover .sous{
 }
 /*connexion + FB*/
 
-#connexion{
+/* ²    &#connexion{
     border-radius: 10px 10px 10px 10px;
     position: fixed;
     top: 2%;
     right: 1%
-}
+} */
 /*logo facebook*/
 #logo_fb{
     width: 4%;
     position: fixed;
     top: 3%;
-    right: 2%
+    right: 2%;
+}
+/*logo table des marée*/
+#logo_maree{
+    width: 8%;
+    position: fixed;
+    top: 2%;
+    left: 1%;
 }
 /*titre*/
 h1{

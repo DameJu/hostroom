@@ -27,8 +27,15 @@
     <li><a href="./plan_acces.php">Plan d'accès</a></li>
  
   </ul></nav> 
+
+  <!-- facebook -->
         <!-- <button id="connexion">Connexion</button>       -->
         <a href="https://www.facebook.com/Chambres-dH%C3%B4tes-Welcome-2791113414295938/"><img id="logo_fb" src="./images/fb.png" ></a>
+
+  <!-- table des marée -->
+        <a href="https://mareespeche.com/fr/nord-pas-de-calais/le-touquet" target="_blank" title="maree">
+        <img id="logo_maree" src="./images/tabledesmarees.png">
+        </a> 
     </header>
   
   
