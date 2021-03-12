@@ -37,8 +37,12 @@
         <img id="logo_maree" src="./images/tabledesmarees.png">
         </a> 
 
-        <a href=""><img id="meteo" src="./images/météo3.jpg"></a>
-    
+        <a href="https://www.meteocity.com/france/cucq-v3022167?utm_medium=widget&utm_source=referral&utm
+        _campaign=france-cucq-v3022167&utm_content=widget" target="_blank" title="meteo">
+        <img id="meteo" src="./images/météo3.jpg"></a>
+
+        <a href="http://pv.viewsurf.com/732/Stella-Plage-Front-de-Mer?i=NjIzMjp1bmRlZmluZWQ" target="_blank" title="webcam">
+        <img id="webcam" src="./images/webcam1.png"></a>
 </header>
   
   
