@@ -108,10 +108,10 @@ nav > ul li:hover .sous{
 }
 /*logo facebook*/
 #logo_fb{
-    width: 4%;
+    width: 4.5%;
     position: fixed;
     top: 3%;
-    right: 2%
+    right: 3%
 }
 
 #meteo{

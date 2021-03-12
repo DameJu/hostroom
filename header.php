@@ -31,7 +31,7 @@
         <a href="https://www.facebook.com/Chambres-dH%C3%B4tes-Welcome-2791113414295938/">
         <img id="logo_fb" src="./images/fb.png" ></a>
 
-        <a href=""><img id="meteo" src="./images/météo4.png" alt=""></a>
+        <a href=""><img id="meteo" src="./images/météo4.png"></a>
 </header>
   
   
