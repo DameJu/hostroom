@@ -36,10 +36,8 @@
         <a href="https://mareespeche.com/fr/nord-pas-de-calais/le-touquet" target="_blank" title="maree">
         <img id="logo_maree" src="./images/tabledesmarees.png">
         </a> 
-  <!-- Météo -->
-        <a href=""><img id="meteo" src="./images/météo4.png"></a>
-  <!-- webcam -->
-        
+
+        <a href=""><img id="meteo" src="./images/météo3.jpg"></a>
     
 </header>
   
