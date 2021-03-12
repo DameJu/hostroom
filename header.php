@@ -28,14 +28,12 @@
  
   </ul></nav> 
 
-  <!-- facebook -->
+  <!-- logo -->
         <!-- <button id="connexion">Connexion</button>       -->
-        <a href="https://www.facebook.com/Chambres-dH%C3%B4tes-Welcome-2791113414295938/"><img id="logo_fb" src="./images/fb.png" ></a>
+        <a href="https://www.facebook.com/Chambres-dH%C3%B4tes-Welcome-2791113414295938/" target="_blank" title="facebook"><img id="logo_fb" src="./images/fb.png" ></a>
 
-  <!-- table des marée -->
         <a href="https://mareespeche.com/fr/nord-pas-de-calais/le-touquet" target="_blank" title="maree">
-        <img id="logo_maree" src="./images/tabledesmarees.png">
-        </a> 
+        <img id="logo_maree" src="./images/tabledesmarees.png"></a> 
 
         <a href="https://www.meteocity.com/france/cucq-v3022167?utm_medium=widget&utm_source=referral&utm
         _campaign=france-cucq-v3022167&utm_content=widget" target="_blank" title="meteo">
@@ -45,8 +43,14 @@
         <img id="webcam" src="./images/webcam1.png"></a>
         <a href=""><img id="meteo" src="./images/météo3.jpg"></a>
 
+  <!-- flèche haut de page -->
         <img id="fleche" src="./images/flèche2.png" alt="">
-    
+
+  <!-- Drapeau -->
+        <img id="GB" src="./images/gb.png" alt="Anglais">
+        <img id="FR" src="./images/FR.png" alt="Francais">
+        <img id="PB" src="./images/pb.jpg" alt="Pays Bas">
+        <img id="D" src="./images/D.png" alt="Allemand">     
 </header>
   
   

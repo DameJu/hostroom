@@ -106,35 +106,35 @@ nav > ul li:hover .sous{
     top: 2%;
     right: 1%
 } */
-/*logo facebook*/
+/*logo*/
 #logo_fb{
     width: 4.5%;
     position: fixed;
-    top: 3%;
+    top: 45%;
     right: 2%;
 }
-/*logo table des marée*/
+
 #logo_maree{
     width: 8%;
     position: fixed;
     top: 2%;
-    left: 1%;
-    right: 3%
+    right: 1%;
+    right: 1%;
 }
 
 #meteo{
     width: 7%;
     position: fixed;
     top: 15%;
-    left: 1.5%;
+    right: 1.5%;
     border-radius: 5px;
 }
 
 #webcam{
-    width: 7%;
+    width: 5%;
     position: fixed;
-    top: 15%;
-    right: 1%;
+    top: 25%;
+    right: 2.5%;
     border-radius: 5%;
 }
 #fleche{
@@ -143,6 +143,40 @@ nav > ul li:hover .sous{
     right: 2.5%;
     width: 4%;
 }
+
+/*Drapeau*/
+#GB{    
+    position: fixed;
+    border-radius: 5%;
+    width: 5%;
+    top: 1%;
+    left: 0%;
+}
+
+#FR{    
+    position: fixed;
+    border-radius: 5%;
+    width: 4%;
+    top: 2%;
+    left: 5.5%;
+}
+
+#PB{    
+    position: fixed;
+    border-radius: 5%;
+    width: 4%;
+    top: 9%;
+    left: 0.5%;
+}
+
+#D{    
+    position: fixed;
+    border-radius: 5%;
+    width: 4.1%;
+    top: 9%;
+    left: 5.5%;
+}
+
 
 /*titre*/
 h1{
