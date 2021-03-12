@@ -27,7 +27,7 @@
     <li><a href="./plan_acces.php">Plan d'accès</a></li>
  
   </ul></nav> 
-        <button id="connexion">Connexion</button>      
+        <!-- <button id="connexion">Connexion</button>       -->
         <a href="https://www.facebook.com/Chambres-dH%C3%B4tes-Welcome-2791113414295938/"><img id="logo_fb" src="./images/fb.png" ></a>
     </header>
   

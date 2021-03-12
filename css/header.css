@@ -106,11 +106,11 @@ nav > ul li:hover .sous{
     top: 2%;
     right: 1%
 }
-
+/*logo facebook*/
 #logo_fb{
     width: 4%;
     position: fixed;
-    top: 7%;
+    top: 3%;
     right: 2%
 }
 /*titre*/
