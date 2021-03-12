@@ -1,6 +1,6 @@
 <?php
     include './page_reservation.php';
-    // require_once("include/connect_mysql.php");
+    require_once './connect_mysql.php';
 ?>
   
 <div id="container">
@@ -31,3 +31,6 @@ if (isset($erreur)) echo '<br /><br />',$erreur;
 ?>
 </div><br>
         
+<?php
+    include './footer.php';
+?>
