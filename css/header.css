@@ -105,7 +105,7 @@ nav > ul li:hover .sous{
     position: fixed;
     top: 2%;
     right: 1%
-} */
+} 
 /*logo*/
 #logo_fb{
     width: 4.5%;
@@ -113,6 +113,16 @@ nav > ul li:hover .sous{
     top: 35%;
     right: 2.8%;
 }
+/*nouveau logo facebook exemple
+
+/* .fab {
+    color: blue;
+    font-size: 15px;
+    width: 4.5%;
+    position: fixed;
+    top: 55%;
+    right: 2.8%;
+} */
 
 #logo_maree{
     width: 8%;

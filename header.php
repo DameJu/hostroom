@@ -4,6 +4,7 @@
    <link rel="stylesheet" href="./css/header.css">
    <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Stick&display=swap" rel="stylesheet">
+<script src="https://kit.fontawesome.com/f03e221f59.js" crossorigin="anonymous"></script>
 </head>
 <body>
 
@@ -53,7 +54,7 @@
         <img id="PB" src="./images/pb.jpg" alt="Pays Bas">
         <img id="D" src="./images/D.png" alt="Allemand">     
         <a href="#haut"><img id="fleche" src="./images/flèche2.png"></a>
-    
+        <i class="fab fa-facebook"></i>
 </header>
   
   
