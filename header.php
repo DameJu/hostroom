@@ -38,6 +38,8 @@
         </a> 
 
         <a href=""><img id="meteo" src="./images/météo3.jpg"></a>
+
+        <img id="fleche" src="./images/flèche2.png" alt="">
     
 </header>
   
