@@ -1,5 +1,5 @@
  <!-- affichage correct sur tout support =responsive, niveau de zoom à 1 -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <style>
 .col-sm-3{
@@ -10,50 +10,46 @@
 
 <?php
 session_start();
-
-require_once "include/connect_mysql.php";
-$idsession = $_SESSION['idcli'];
-echo $idsession;
+	require_once "include/connect_mysql.php";
+	$idsession = $_SESSION['idcli'];
+	echo $idsession;
 ?>
+
 <div class=container>
-<div class=row>
-<br/>
-<div class=col-12>
-<h2>Liste reservation </h2>
+	<div class=row>
+		<br/>
+		<div class=col-12>
+			<h2>Liste reservation </h2>
 <?php $req = $pdo->query("select `idreserv`, `datedebut`,`datefin`, categorie.genre FROM reservation  inner join categorie on categorie.Idcat = reservation.genre   where client = '" . $_SESSION['idcli'] . "'");?>
 <table>
-<thead>
-                <tr>
-                    <th class="text-center">Date debut</th>
-                    <th class="text-center">Date fin</th>
-                    <th class="text-center">nombre de jours </th>
-                    <th class="text-center">Genre</th>
-                    
-
-                </tr>
-            </thead>
-            <tbody>
-                <?php while ($data = $req->fetch(PDO::FETCH_ASSOC)): ?>
-                <tr>
-                    <td class="text-center"><?php $datede = strftime('%d-%m-%Y', strtotime($data['datedebut']));
+	<thead>
+            <tr>
+                <th class="text-center">Date debut</th>
+                <th class="text-center">Date fin</th>
+                <th class="text-center">nombre de jours </th>
+                <th class="text-center">Genre</th>
+            </tr>
+    </thead>
+    <tbody>
+        <?php while ($data = $req->fetch(PDO::FETCH_ASSOC)): ?>
+    	    <tr>
+                <td class="text-center"><?php $datede = strftime('%d-%m-%Y', strtotime($data['datedebut']));
 echo $datede?></td>
-                    <td class="text-center"><?php $datef = strftime('%d-%m-%Y', strtotime($data['datefin']));
+                <td class="text-center"><?php $datef = strftime('%d-%m-%Y', strtotime($data['datefin']));
 echo $datef?></td>
 
-
-                    <td class="text-center"><?php
+		      <td class="text-center">
+<?php
 //  creation d'un intervalle entre deux dates pour signaler le nombre  de nuitées//
-$date = new datetime($data["datefin"]);
-$date2 = new datetime($data["datedebut"]);
-$diff = $date->diff($date2);
-$interval = $diff->format("%a");
-echo $interval;
-?></td>
-
-                    <td class="text-center"><?=$data['genre']?></td>
-                 
-
-
+	$date = new datetime($data["datefin"]);
+	$date2 = new datetime($data["datedebut"]);
+	$diff = $date->diff($date2);
+	$interval = $diff->format("%a");
+	echo $interval;
+?>			
+				</td>
+                <td class="text-center">
+				<?=$data['genre']?></td>
                 </tr>
                 <?php endwhile?>
 
@@ -64,13 +60,8 @@ echo $interval;
 </div>
 
 
-<h2>
-	Entrer date de reservation
-
-
-</h2>
+<h2>Entrer date de reservation</h2>
 <br/>
-
 
 <!--formulaire choix de chambre  Chambre  -->
 <div id=formlog ><h4>Reservation Chambres d'hôtes</h4>
@@ -186,55 +177,39 @@ for ($i = 1; $i <= 8; $i++) {
 			<div class="col-sm-3">
 
 				<strong><?php echo "Date Fin reservation" ?></strong>
-
 					<div class="input-group">
 					<input required id="end_time" type="text" class="form-control" name="end_time">
 					<span class="input-group-addon"><img src="images/calendar.png"/></span>
-
 				  </div>
-
 			</div>
-
-
 			<div class="col-sm-3"><br>
 							<input type="submit" name="submitlog" class="btn btn-primary btn-md" value="rechercher"/>
 			</div>
+		</div>
+	</div>
+</div>
+</form>
+</div>
 
-
-
-		</div></div>
-	</div></form></div>
-
-
-<?php
-		
+<?php	
  } else{
 	 echo "";
  }
  ?>
 
-
-
-
-
-
 <link rel="stylesheet" type="text/css" href="css/jquery.datetimepicker.css"/ >
 <script src="js/jquery.datetimepicker.full.min.js"></script>
 <script>
-
-$('#start_time').datetimepicker({
-	format:"m/d/Y",
-	formatTime:"",
-    timepicker:0
-}
-);
-$('#end_time').datetimepicker({
-	format:"m/d/Y",
-	formatTime:"",
-    timepicker:0
-});
-
-
+	$('#start_time').datetimepicker({
+		format:"m/d/Y",
+		formatTime:"",
+    	timepicker:0
+	}
+	);
+	$('#end_time').datetimepicker({
+		format:"m/d/Y",
+		formatTime:"",
+		timepicker:0
+	});
 </script>
-
 <br>

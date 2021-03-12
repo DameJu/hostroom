@@ -9,6 +9,7 @@
 
 <section class="fond">
 <header>
+
 <nav id="haut">     
   <ul>
     <li><a href="./index.php">Accueil</a></li>
@@ -27,6 +28,7 @@
     <li><a href="./plan_acces.php">Plan d'accès</a></li>
  
   </ul>
+
 </nav> 
 
   <!-- logo -->
@@ -53,7 +55,8 @@
         <img id="PB" src="./images/pb.jpg" alt="Pays Bas">
         <img id="D" src="./images/D.png" alt="Allemand">     
         <a href="#haut"><img id="fleche" src="./images/flèche2.png"></a>
-    
+  
+
 </header>
   
   
