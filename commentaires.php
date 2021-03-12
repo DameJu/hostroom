@@ -6,19 +6,19 @@ include './header.php';
 <form action="" method="POST">
         <div>
             <label form="Name">Nom</label> <br>
-            <input type="text" id="name" name="user_name">
+            <input class="input_com" type="text" id="name" name="user_name">
         </div>
         <div>
             <label form="Surname">Prénom</label> <br>
-             <input type="text" id="surname" surname="user_surname">
+             <input class="input_com" type="text" id="surname" surname="user_surname">
         </div>
         <div>
             <label form="email">@</label> <br>
-            <input type="email">
+            <input class="input_com" type="email">
         </div>
         <div>
             <label form=«message»> Message</label> <br>
-            <input type="texte" id="message" name=«user_message»>
+            <input class="input_com" type="texte" id="message" name=«user_message»>
         </div>
         <br>
         <div>
