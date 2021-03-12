@@ -9,8 +9,8 @@
 
 <section class="fond">
 <header>
-<nav>     
-<ul>
+<nav id="haut">     
+  <ul>
     <li><a href="./index.php">Accueil</a></li>
     <li class="deroulant"><a href="#">Chambres &ensp;</a>
       <ul class="sous">
@@ -26,7 +26,8 @@
     <li><a href="./commentaires.php">Commentaires</a></li>
     <li><a href="./plan_acces.php">Plan d'accès</a></li>
  
-  </ul></nav> 
+  </ul>
+</nav> 
 
   <!-- facebook -->
         <!-- <button id="connexion">Connexion</button>       -->
@@ -45,7 +46,7 @@
         <img id="webcam" src="./images/webcam1.png"></a>
         <a href=""><img id="meteo" src="./images/météo3.jpg"></a>
 
-        <img id="fleche" src="./images/flèche2.png" alt="">
+        <a href="#haut"><img id="fleche" src="./images/flèche2.png"></a>
     
 </header>
   
