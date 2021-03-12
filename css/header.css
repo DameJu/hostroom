@@ -137,6 +137,12 @@ nav > ul li:hover .sous{
     right: 1%;
     border-radius: 5%;
 }
+#fleche{
+    position: fixed;
+    bottom: 1%;
+    right: 2.5%;
+    width: 4%;
+}
 
 /*titre*/
 h1{
@@ -165,19 +171,16 @@ h1{
 }
  
 .gallery{
-/* display: flex;
-justify-content: center;
-align-items: center; */
-margin-left: 25%;
-/* margin-right: 20%; */
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .image_sejour{
-    width: 60%;
+    width: 50%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr ;
-    grid-gap: 5px;
+    grid-gap: 8px;
 }
 
 /* footer*/
