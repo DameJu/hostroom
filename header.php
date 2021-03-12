@@ -9,8 +9,8 @@
 
 <section class="fond">
 <header>
-<nav>     
-<ul>
+<nav id="haut">     
+  <ul>
     <li><a href="./index.php">Accueil</a></li>
     <li class="deroulant"><a href="#">Chambres &ensp;</a>
       <ul class="sous">
@@ -26,7 +26,8 @@
     <li><a href="./commentaires.php">Commentaires</a></li>
     <li><a href="./plan_acces.php">Plan d'accès</a></li>
  
-  </ul></nav> 
+  </ul>
+</nav> 
 
   <!-- logo -->
         <!-- <button id="connexion">Connexion</button>       -->
@@ -51,6 +52,8 @@
         <img id="FR" src="./images/FR.png" alt="Francais">
         <img id="PB" src="./images/pb.jpg" alt="Pays Bas">
         <img id="D" src="./images/D.png" alt="Allemand">     
+        <a href="#haut"><img id="fleche" src="./images/flèche2.png"></a>
+    
 </header>
   
   
