@@ -120,6 +120,14 @@ nav > ul li:hover .sous{
     top: 2%;
     left: 1%;
 }
+
+#meteo{
+    width: 10%;
+    position: fixed;
+    top: 12%;
+    left: 1%;
+}
+
 /*titre*/
 h1{
     font-size: 2.5em;
@@ -143,9 +151,7 @@ h1{
 
 .photos{
     width: 100%;
-    grid-column: span 3;
-    
-  
+    grid-column: span 3;  
 }
  
 .gallery{
@@ -162,7 +168,6 @@ margin-left: 25%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr ;
     grid-gap: 5px;
-    
 }
 
 /* footer*/
@@ -174,13 +179,10 @@ margin-left: 25%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-
-  
 }
 
 #marginfooter{
     margin-top: 2%; 
-  
 }
 
 .cb{
@@ -191,7 +193,6 @@ margin-left: 25%;
 
 .cb img{
     width: 150px;
-
 } 
 
 .petit{
@@ -226,14 +227,12 @@ input{
 /*plan accés*/
 #plan{
     width: 60%;
-   
 }
 
 #bis{
 
     display: flex;
     justify-content: center;    
-
 }
 
 #iti{

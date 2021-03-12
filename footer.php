@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="./css/header.css">
+
 <section id="marginfooter" ></section>
 
 <fieldset id="cadre">
@@ -29,7 +30,9 @@
 <a class="petit" href="./mention_legales.php">Mention légales</a>
 <a class="petit" href="./politique_de_confidenlite.php">|Politique de confidentialité</a>
 
-
+<footer>
+    <script src="./js/horloge.js" ></script>
+</footer>
 
 </body>
 </html>
