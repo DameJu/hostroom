@@ -4,7 +4,7 @@
 
 <fieldset id="cadre">
 
-<div class="cb"><img id="gauche" src="./images/cb1.png"></div>
+<div class="cb"><img id="gauche" src="./images/cb3.png"></div>
     
 <div class="cb">
     <h3 class="footer_contact">  Catherine et Daniel BIGOT  <br>

@@ -37,7 +37,8 @@
         <img id="logo_maree" src="./images/tabledesmarees.png">
         </a> 
         <a href=""><img id="meteo" src="./images/météo4.png"></a>
-    </header>
+    
+</header>
   
   
   
