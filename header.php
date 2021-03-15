@@ -56,7 +56,7 @@
         <img id="PB" src="./images/pb.jpg" alt="Pays Bas">
         <img id="D" src="./images/D.png" alt="Allemand">     
         <a href="#haut"><img id="fleche" src="./images/flèche2.png"></a>
-        <i class="fab fa-facebook"></i>
+        <!-- <i class="fab fa-facebook"></i> -->
   
 
 </header>
